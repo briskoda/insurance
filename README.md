@@ -1,6 +1,6 @@
-# BRISKODA Search
+# BRISKODA Insurance
 
-The 2019 BRISKODA Search minisite, using [Hugo], deployed via [ExoScale]
+The 2019 BRISKODA Insurance minisite, using [Hugo], deployed via [ExoScale]
 
 ## Building locally
 
