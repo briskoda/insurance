@@ -1,6 +1,6 @@
-baseurl = "https://search.briskoda.net"
+baseurl = "https://insurance.briskoda.net"
 publishdir    = "public"
-title = "Search - BRISKODA"
+title = "Insurance - BRISKODA"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -8,7 +8,7 @@ theme = "briskoda"
 googleAnalytics = ""
 
 [params]
-    description = "BRISKODA Forums Search"
+    description = "BRISKODA Insurance"
     favicon = "favicon.ico"
     logo = "/briskoda-logo.png"
 
