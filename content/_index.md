@@ -12,5 +12,5 @@ weight: 1
   Call 0800 819 9320</a>
 </h1>
 <h2 class="super-f2 super-f2-ns fw2 ma0 mt3">
-  Helping you, to save money, with our personal service and unrivalled support, from people right here in the UK.
+  Helping you to save money - with personal service and unrivalled support from people right here in the UK
 </h2>
