@@ -1,6 +1,8 @@
 # BRISKODA Insurance
 
-The 2019 BRISKODA Insurance minisite, using [Hugo], deployed via [ExoScale]
+The 2019 BRISKODA Insurance minisite, using [Hugo], deployed via [Netlify]
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb94986-b8ea-4037-baa4-5aaf35e46bb7/deploy-status)](https://app.netlify.com/sites/briskoda-insurance-ee6093/deploys)
 
 ## Building locally
 
@@ -28,6 +30,6 @@ your site can be accessed under `localhost:1313/hugo/`.
    set in order to serve static assets under a relative URL.
 
 [hugo]: https://gohugo.io
-[exoscale]: https://exoscale.com
+[netlify]: https://netlify.com
 [install]: https://gohugo.io/overview/installing/
 [documentation]: https://gohugo.io/overview/introduction/
